@@ -1,6 +1,8 @@
 name: Tesi
 channels:
 dependencies:
-  - python=3.9
+  - python=3.6
   - numpy
   - matplotlib
+  - scipy
+  - contango::python_speech_features
